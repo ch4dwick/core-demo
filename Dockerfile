@@ -15,7 +15,7 @@ WORKDIR /app
 COPY main.ts .
 COPY deps/ .
 COPY api/ .
-RUN deno cache --import-map=import_maps.json main.ts
+RUN deno cache --import-map=payment_maps.json main.ts
 
 # These steps will be re-run upon each file change in your working directory:
 ADD . .

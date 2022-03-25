@@ -1,6 +1,0 @@
-{
-    "imports": {
-       "dependencies/": "/home/chad/XLD/dependencies-demo/",
-       "api/": "/home/chad/XLD/payments-api-demo/"
-    }
- }

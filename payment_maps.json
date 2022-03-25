@@ -1,0 +1,6 @@
+{
+    "imports": {
+       "dependencies/": "./dependencies-demo/",
+       "api/": "./api-demo/"
+    }
+ }

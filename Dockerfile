@@ -1,4 +1,4 @@
-FROM denoland/deno:1.19.3
+FROM denoland/deno:1.20.2
 
 # Run time parameters with defeult. Override with -e env=val -e iso=val at run.
 ENV params "-e development --iso ph"

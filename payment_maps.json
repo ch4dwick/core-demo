@@ -1,6 +1,6 @@
 {
     "imports": {
-       "dependencies/": "deps/",
-       "api/": "api/"
+       "dependencies/": "./deps/",
+       "api/": "./api/"
     }
  }
